@@ -1,4 +1,4 @@
-## Eai, tudo bom? Meu nome é Kellyson Dias 😁
+## Eai, tudo bom? Meu nome é Kellyson Dias ☮️
 
  <div>
   <a href="https://github.com/kellysondias">
@@ -12,9 +12,7 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue no Dev em Dobro!
- 
+  
 <div> 
   <a href="https://www.instagram.com/kellysondias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/kellyson.muniz?si=8c7ef5da9dde47c0" target="_blank"></a>
