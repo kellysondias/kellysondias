@@ -1,6 +1,14 @@
 ## Eai, tudo bom? Meu nome é Kellyson Dias ☮️
 
- <div>
+<br>
+
+<ul>
+ <li>🌱 Estudando HTML5 e CSS3</li>
+ <li>😆 Pronomes: Ele/Dele</li>
+</ul>
+  
+  <br>
+  
   <a href="https://github.com/kellysondias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellysondias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellysondias&layout=compact&langs_count=6&theme=tokyonight"/>
