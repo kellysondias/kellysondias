@@ -4,7 +4,7 @@
 
 <ul>
  <li>🌱 Estudando HTML5 e CSS3</li>
- <li>😆 Pronomes: Ele/Dele</li>
+ <li>♂️ Pronomes: Ele/Dele</li>
 </ul>
   
   <br>
