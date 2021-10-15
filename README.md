@@ -3,6 +3,7 @@
 <br>
 
 <ul>
+ <li>💻 Front-End</li>
  <li>🌱 Estudando HTML5 e CSS3</li>
  <li>♂️ Pronomes: Ele/Dele</li>
 </ul>
