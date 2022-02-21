@@ -8,8 +8,7 @@
  <li>♂️ Pronomes: Ele/Dele</li>
 </ul>
   
-  <p>Meu nome é Kellyson Dias e sou um Desenvolvedor Front-end Júnior. Sou apaixonado por tecnologia e desenvolvimento de software, especialmente aplicações para a internet. Atualmente estou aprimorando meus conhecimentos em HTML e CSS e aprendendo a usar JavaScript e React.
-  Eu estive na frente do computador desde muito cedo, jogando jogos de Super Nintendo nos emuladores ou tentando assistir alguma coisa no YouTube na era neolítica da internet. Crescendo na primeira metade dos anos 2000 eu vi a internet crescer, amadurecer e superar a bolha dos fóruns para se tornar um fenômeno revolucionário. Por isso, fazer parte desta revolução parecia o caminho profissional mais óbvio pra mim.
+  <p>   Meu nome é Kellyson Dias e sou um Desenvolvedor Front-end Júnior. Sou apaixonado por tecnologia e desenvolvimento de software, especialmente aplicações para a internet. Atualmente estou aprimorando meus conhecimentos em HTML e CSS e aprendendo a usar JavaScript e React.
   Quando não estou programando eu gosto de assistir filmes, fazer fotos, ler livros e quadrinhos diversos e ouvir muita música!</p>
   
   <br>
