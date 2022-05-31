@@ -4,7 +4,7 @@
 
 <ul>
  <li>💻 Front-End</li>
- <li> 🧠 Estudando React</li>
+ <li> ⚛️ Estudando React</li>
  <li>♂️ Pronomes: Ele/Dele</li>
 </ul>
   
