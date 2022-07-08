@@ -7,6 +7,8 @@
  <li> ⚛️ Estudando React</li>
  <li>♂️ Pronomes: Ele/Dele</li>
 </ul>
+
+<span><a href="https://kellysondias.github.io/meu-portfolio/" target="_blank">- Meu portfólio</a></span
   
   <br>
   
