@@ -6,10 +6,10 @@
  <li>💻 Front-End</li>
  <li> ⚛️ Estudando React</li>
  <li>♂️ Pronomes: Ele/Dele</li>
+ <br>
+ <li><a href="https://kellysondias.github.io/meu-portfolio/" target="_blank">Meu portfólio</a></li>
 </ul>
 
-<span><a href="https://kellysondias.github.io/meu-portfolio/" target="_blank">- Meu portfólio</a></span>
-  
   <br>
   
   <a href="https://github.com/kellysondias">
