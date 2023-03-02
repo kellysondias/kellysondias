@@ -3,7 +3,7 @@
 <br>
 
 <ul>
- <li>💻 Front-End</li>
+ <li>💻 Frontend</li>
  <li> 🤓 Estudando Tailwind</li>
  <li>♂️ Pronomes: Ele/Dele/Ela/Dela</li>
  <br>
