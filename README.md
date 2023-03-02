@@ -4,8 +4,8 @@
 
 <ul>
  <li>💻 Front-End</li>
- <li> ⚛️ Estudando React</li>
- <li>♂️ Pronomes: Ele/Dele</li>
+ <li> 🤓 Estudando Tailwind</li>
+ <li>♂️ Pronomes: Ele/Dele/Ela/Dela</li>
  <br>
  <li><a href="https://portfolio-kellysondias.vercel.app">Meu portfólio</a></li>
 </ul>
