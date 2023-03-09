@@ -1,4 +1,4 @@
-## Eai, tudo bom? Meu nome é Kellyson Dias ☮️
+## Eai, tudo bom? Meu nome é Kellyson Dias 👾
 
 <br>
 
@@ -20,10 +20,10 @@
  
 <section style= "margin-bottom: 15px;">
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ícone do Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Ícone do TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Ícone do React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-  <img align="center" alt="Ícone do Redux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  
+  <img align="center" alt="Ícone do React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Ícone do Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Ícone do Redux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Ícone do Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
   <img align="center" alt="Ícone do Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </section>
