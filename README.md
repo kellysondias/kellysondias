@@ -2,13 +2,15 @@
 
 <br>
 
-<ul>
+<div>
+ <ul>
  <li>💻 Frontend</li>
  <li>🤓 Estudando Tailwind</li>
  <br>
  <li><a href="https://portfolio-kellysondias.vercel.app">Meu portfólio</a></li>
 </ul>
-
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55e9f737-071f-43e4-95a1-e364df4055f1/ddiiw6f-f9a98b04-696a-4058-bbf1-8f1cedb59115.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1ZTlmNzM3LTA3MWYtNDNlNC05NWExLWUzNjRkZjQwNTVmMVwvZGRpaXc2Zi1mOWE5OGIwNC02OTZhLTQwNTgtYmJmMS04ZjFjZWRiNTkxMTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VCJ5c0tw0PZ2RbcMQJbSVgwUfJyFYGaUuYXfYt1zaaI" alt="Porygons saltitantes :]" />
+</div>
   <br>
   
   <a href="https://github.com/kellysondias">
