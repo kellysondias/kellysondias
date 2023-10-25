@@ -4,8 +4,8 @@
 
 <div>
  <ul>
- <li>💻 Frontend</li>
- <li>🤓 Estudando Tailwind</li>
+ <li>💻 Desenvolvedor Web</li>
+ <li>🤓 Estudando Node.js </li>
  <br>
  <li><a href="https://portfolio-kellysondias.vercel.app">Meu portfólio</a></li>
 </ul>
