@@ -21,15 +21,15 @@
  
 <section style= "margin-bottom: 15px;">
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ícone do TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img align="center" alt="Ícone do React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Ícone do Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Ícone do Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   <img align="center" alt="Ícone do Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Ícone do Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
-  <img align="center" alt="Ícone do GitLab" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" /> 
-  <img align="center" alt="Ícone do Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" /> 
-  <img align="center" alt="Ícone do Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" /> 
+  <img align="center" alt="Ícone do TypeScript" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="Ícone do React" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Ícone do Node.JS" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Ícone do Tailwind" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+   <img align="center" alt="Ícone do Sass" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Ícone do Git" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
+  <img align="center" alt="Ícone do GitLab" height="100" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" /> 
+  <img align="center" alt="Ícone do Jest" height="100" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" /> 
+  <img align="center" alt="Ícone do Redux" height="100" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" /> 
 </section>
 
  <br>
