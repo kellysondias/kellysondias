@@ -5,7 +5,7 @@
 <div>
  <ul>
  <li>💻 Desenvolvedor Web</li>
- <li>🤓 Estudando Node.js </li>
+ <li>🤓 Estudando AWS </li>
  <br>
  <li><a href="https://portfolio-kellysondias.vercel.app">Meu portfólio</a></li>
 </ul>
