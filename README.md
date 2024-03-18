@@ -33,7 +33,7 @@
 </section>
 
 <section>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="665c6fba-efd3-4e06-8973-b96e412e45eb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </section>
 
  <br>
