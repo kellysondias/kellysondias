@@ -35,7 +35,7 @@
 <section>
  <a href="https://www.credly.com/badges/665c6fba-efd3-4e06-8973-b96e412e45eb/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" /></a>
  <a href="https://www.credly.com/badges/a86e61f3-5c34-4000-8ce6-e1616d7941e1/public_url"><img width="170" src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials Badge" /></a>
- <img width="170" src="https://i.ibb.co/fN5v1Y3/Screenshot-1-removebg-preview.png" alt="Certified AI Assisted Professional Badge" />
+ <a href="https://drive.google.com/file/d/1ZrPagIt9uCeEs8k2loXUkjeMkUuJU6u5/view?usp=sharing" target="_blank"><img width="170" src="https://i.ibb.co/fN5v1Y3/Screenshot-1-removebg-preview.png" alt="Certified AI Assisted Professional Badge" /></a>
 </section>
 
  <br>
