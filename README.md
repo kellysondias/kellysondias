@@ -5,7 +5,7 @@
 <div>
  <ul>
  <li>💻 Web Developer</li>
- <li>🤓 Learning <a href="https://astro.build">Astro</a> + <a href="https://www.contentful.com">Contentful</a> </li>
+ <li>🤓 Learning <a href="https://astro.build">Astro</a></li>
  <br>
  <li><a href="https://portfolio-kellysondias.vercel.app">My portfolio</a></li>
 </ul>
