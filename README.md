@@ -7,7 +7,7 @@
  <li>💻 Web Developer</li>
  <li>🤓 Learning <a href="https://astro.build">Astro</a></li>
  <br>
- <li style="display: flex; align-items:center"><a href="https://portfolio-kellysondias.vercel.app" style="position: relative;  padding-right: 35px;">My portfolio <img style="width: 30px; height: 30px; position: absolute; right: 0; bottom: 0;" src="https://s2.ezgif.com/tmp/ezgif-2-2e5434eb33.gif" alt="A vaporwave, digitized rendition of a classical bust sculpture with a glitch aesthetic, blending ancient art with modern technology." /></a></li>
+ <li style="display: flex; align-items:center"><a href="https://portfolio-kellysondias.vercel.app" style="position: relative;  padding-right: 35px;">My portfolio</a></li>
 </ul>
 <img style="width: 250px; height: 250px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55e9f737-071f-43e4-95a1-e364df4055f1/ddiiw6f-f9a98b04-696a-4058-bbf1-8f1cedb59115.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1ZTlmNzM3LTA3MWYtNDNlNC05NWExLWUzNjRkZjQwNTVmMVwvZGRpaXc2Zi1mOWE5OGIwNC02OTZhLTQwNTgtYmJmMS04ZjFjZWRiNTkxMTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VCJ5c0tw0PZ2RbcMQJbSVgwUfJyFYGaUuYXfYt1zaaI" alt="Porygons :]" />
 </div>
