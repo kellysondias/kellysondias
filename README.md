@@ -1,4 +1,4 @@
-## Eai, tudo bom? Meu nome é Kellyson Dias 👾
+## How you doing? My name is Kellyson Dias 👾
 
 <br>
 
