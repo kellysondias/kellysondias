@@ -5,7 +5,7 @@
 <div>
  <ul>
  <li>💻 Web Developer</li>
- <li>🤓 Learning <a href="https://astro.build">Astro</a></li>
+ <li>🤓 Learning <a href="https://nextjs.org">NextJS</a></li>
  <br>
  <li style="display: flex; align-items:center"><a href="https://portfolio-kellysondias.vercel.app" style="position: relative;  padding-right: 35px;">My portfolio</a></li>
 </ul>
