@@ -5,7 +5,7 @@
 <div>
  <ul>
  <li>💻 Web Developer at <a href="https://compass.uol/pt/home/" target="_blank">Compass.UOL</a></li>
- <li>🤓 Learning <a href="https://nextjs.org">NextJS</a></li>
+ <li>🤓 Learning <a href="https://sequelize.org">Sequelize</a></li>
  <br>
  <li style="display: flex; align-items:center"><a href="https://portfolio-kellysondias.vercel.app" style="position: relative;  padding-right: 35px;">My portfolio</a></li>
 </ul>
