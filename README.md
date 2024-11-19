@@ -5,7 +5,7 @@
 <div>
  <ul>
  <li>💻 Web Developer at <a href="https://compass.uol/home/" target="_blank">Compass.UOL</a></li>
- <li>🤓 Learning <a href="https://nestjs.com//">NodeJS</a></li>
+ <li>🤓 Learning <a href="https://nodejs.org/docs/latest/api/">NodeJS</a></li>
  <br>
  <li style="display: flex; align-items:center"><a href="https://portfolio-kellysondias.vercel.app" style="position: relative;  padding-right: 35px;">My portfolio</a></li>
 </ul>
