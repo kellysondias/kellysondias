@@ -13,7 +13,6 @@ I currently work at [Compass UOL](https://compass.uol/), allocated to Natura, on
 ### Certifications
 
 <a href="https://www.credly.com/badges/665c6fba-efd3-4e06-8973-b96e412e45eb/public_url"><img width="120" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" /></a>
-<a href="https://www.credly.com/badges/a86e61f3-5c34-4000-8ce6-e1616d7941e1/public_url"><img width="120" src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials Badge" /></a>
 
 ### Contact
 
